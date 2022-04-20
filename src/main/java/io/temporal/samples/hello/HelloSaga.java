@@ -38,8 +38,8 @@ import java.time.Duration;
 /**
  * Sample Temporal workflow that demonstrates the workflow compensation capability.
  *
- * <p>Compensation deals with undoing or reversing work which has already successfully completed.
- * (also called SAGA). Temporal includes very powerful support for compensation which is showedcased
+ * <p>Compensation deals with undoing or reversing work which has already successfully completed
+ * (also called SAGA). Temporal includes very powerful support for compensation which is showcased
  * in this example.
  *
  * @see io.temporal.samples.bookingsaga.TripBookingSaga for another SAGA example.
